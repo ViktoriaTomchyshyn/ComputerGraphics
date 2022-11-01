@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "DzHHZJBv5QNpH+UNdBoc6lvc7ybVX9Y8gAr7RtuxxO0=",
+  "Hash": "RFns52r5eogCo/3d2+CP4vzZgsrP/nlfPnXoSQ7br0A=",
   "Source": "CompGraphics",
   "BasePath": "_content/CompGraphics",
   "Mode": "Default",
@@ -68,6 +68,23 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+      "Identity": "C:\\Users\\vikto\\source\\repos\\CompGraphics\\CompGraphics\\wwwroot\\js\\canvas1Display.js",
+      "SourceId": "CompGraphics",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vikto\\source\\repos\\CompGraphics\\CompGraphics\\wwwroot\\",
+      "BasePath": "_content/CompGraphics",
+      "RelativePath": "js/canvas1Display.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\canvas1Display.js"
+    },
+    {
       "Identity": "C:\\Users\\vikto\\source\\repos\\CompGraphics\\CompGraphics\\wwwroot\\js\\help.js",
       "SourceId": "CompGraphics",
       "SourceType": "Discovered",
@@ -117,6 +134,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\snowflake.js"
+    },
+    {
+      "Identity": "C:\\Users\\vikto\\source\\repos\\CompGraphics\\CompGraphics\\wwwroot\\js\\uploadImage.js",
+      "SourceId": "CompGraphics",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vikto\\source\\repos\\CompGraphics\\CompGraphics\\wwwroot\\",
+      "BasePath": "_content/CompGraphics",
+      "RelativePath": "js/uploadImage.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\uploadImage.js"
     },
     {
       "Identity": "C:\\Users\\vikto\\source\\repos\\CompGraphics\\CompGraphics\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
@@ -1086,6 +1120,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Identity": "C:\\Users\\vikto\\source\\repos\\CompGraphics\\CompGraphics\\wwwroot\\upload\\example.jpg",
+      "SourceId": "CompGraphics",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vikto\\source\\repos\\CompGraphics\\CompGraphics\\wwwroot\\",
+      "BasePath": "_content/CompGraphics",
+      "RelativePath": "upload/example.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\upload\\example.jpg"
     }
   ]
 }
